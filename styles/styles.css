@@ -62,8 +62,9 @@ a {
 
 .container {
   width: 80vw;
-  height: 100vh;
+  height: auto;
   margin: auto;
+  padding-bottom: 3rem;
 }
 
 .hide {
@@ -100,15 +101,6 @@ input {
   /* vertical-align: middle;  */
 }
 
-
-
-#footer {
-  width: 100%;
-  padding: .25rem;
-  color: white;
-  background-color:rgba(151, 211, 141, .5);
-  text-align: center; 
-}
 
 
 /* footer */
